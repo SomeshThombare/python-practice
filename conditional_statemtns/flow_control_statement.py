@@ -1,0 +1,5 @@
+print('Welcome To JCEP')
+print('Login Page')
+print('Enter Username amd password')
+print('Home page')
+print('profile page')

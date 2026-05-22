@@ -1,0 +1,7 @@
+f = open('a_plus.txt','a+')
+print(f.read())
+f.write('axy')
+f= open('a_plus.txt','r')
+data = f.read()
+print(data)
+f.close()
