@@ -28,3 +28,5 @@ print(s5,id(s5),type(s5))
 s5 = 'Hello world!!!'
 print(s5,id(s5),type(s5))
 
+x = "sam"
+print(x.upper())
