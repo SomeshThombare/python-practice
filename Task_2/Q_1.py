@@ -63,8 +63,8 @@ for i in r:
     else:
         odd_sum += i
 
-print('Sum of even nos:',even_sum)
-print('Sum of odd nos : ',odd_sum)
+print('Sum of even no's:',even_sum)
+print('Sum of odd no's : ',odd_sum)
 
 # 10) Write a Program To print even and odd No
 r = range(0, 101)
