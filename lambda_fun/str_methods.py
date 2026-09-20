@@ -1,3 +1,4 @@
+#All strig methods practuces here
 s = 'skills it'
 # s=[1]
 # s=[-8]
