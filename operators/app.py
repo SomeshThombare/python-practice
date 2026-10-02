@@ -12,6 +12,8 @@ print('Modules operator retur Reminder(13%3) :',13%3)
 #relatonal / conditional operator
 a = 10
 b = 20
+c= a + b
+print(a)
 
 # > --> greater than
 #   < --> less than
