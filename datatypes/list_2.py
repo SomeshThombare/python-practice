@@ -13,3 +13,5 @@ print('l2[2] : ',l2[2],id(l2[2]))
 
 print('__________________________________')
 
+fruits = ["mango","Banana"]
+fruits.append("Orange")
